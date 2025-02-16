@@ -10,6 +10,12 @@ A simple, stylish, and responsive **Login Form** built with **HTML, CSS, and Jav
 - 🎭 **Hover Effects** – Smooth hover transitions for buttons and inputs.  
 - 📷 **Background Image** – Stylish login card with a background.  
 
+- ## 👩‍💻 Author  
+👤 **Krupika**  
+🌐 GitHub: [github.com/Krupika](https://github.com/krupika)
+📧 Email: krupikaheerekar@gmail.com  
+
+![Login Form](bg1.jpg)
 
 
  
