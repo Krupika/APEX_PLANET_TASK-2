@@ -15,7 +15,7 @@ A simple, stylish, and responsive **Login Form** built with **HTML, CSS, and Jav
 🌐 GitHub: [github.com/Krupika](https://github.com/krupika)
 📧 Email: krupikaheerekar@gmail.com  
 
-![Login Form](bg1.jpg)
+
 
 
  
